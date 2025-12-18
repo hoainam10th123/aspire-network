@@ -1,0 +1,12 @@
+G:\code\AspireApp.Network\SharedObject\bin\Debug\net9.0\SharedObject.deps.json
+G:\code\AspireApp.Network\SharedObject\bin\Debug\net9.0\SharedObject.dll
+G:\code\AspireApp.Network\SharedObject\bin\Debug\net9.0\SharedObject.pdb
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\SharedObject.csproj.AssemblyReference.cache
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\SharedObject.GeneratedMSBuildEditorConfig.editorconfig
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\SharedObject.AssemblyInfoInputs.cache
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\SharedObject.AssemblyInfo.cs
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\SharedObject.csproj.CoreCompileInputs.cache
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\SharedObject.dll
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\refint\SharedObject.dll
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\SharedObject.pdb
+G:\code\AspireApp.Network\SharedObject\obj\Debug\net9.0\ref\SharedObject.dll

@@ -1,0 +1,12 @@
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\bin\Debug\net9.0\AspireApp.Network.ServiceDefaults.deps.json
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\bin\Debug\net9.0\AspireApp.Network.ServiceDefaults.dll
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\bin\Debug\net9.0\AspireApp.Network.ServiceDefaults.pdb
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\AspireApp.Network.ServiceDefaults.csproj.AssemblyReference.cache
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\AspireApp.Network.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\AspireApp.Network.ServiceDefaults.AssemblyInfoInputs.cache
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\AspireApp.Network.ServiceDefaults.AssemblyInfo.cs
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\AspireApp.Network.ServiceDefaults.csproj.CoreCompileInputs.cache
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\AspireApp.Network.ServiceDefaults.dll
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\refint\AspireApp.Network.ServiceDefaults.dll
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\AspireApp.Network.ServiceDefaults.pdb
+G:\code\AspireApp.Network\AspireApp.Network.ServiceDefaults\obj\Debug\net9.0\ref\AspireApp.Network.ServiceDefaults.dll
